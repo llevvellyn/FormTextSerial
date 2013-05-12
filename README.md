@@ -7,7 +7,7 @@ The process is largely copied from the Emoncms Raspberry Pi installation and has
 
 It has been tested with the following setup:
 
-Hardware
+<b>Hardware</b>
 - Raspberry Pi (http://www.raspberrypi.org)
 - RFM2Pi (http://harizanov.com/product/rfm2pi-board-v2/)
 
@@ -20,7 +20,7 @@ Install the elements below as per instructions at http://emoncms.org/site/docs/r
 - rfm12pi gateway service: PHP gateway - except instead of rfm12piphp use the form_script file
 Ignore the emoncms and Mysql elements in the instructions list
 
-Code
+<b>Code</b>
 - Copy "index.php" & "form_run.php" to your "var/www/" folder
 - Create a file called "share.txt" and ensure "www-data" can write to it
 
