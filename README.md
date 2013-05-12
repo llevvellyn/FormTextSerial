@@ -6,11 +6,13 @@ FormTextSerial takes the data entered in a form served on a Raspberry Pi and pas
 The process is largely copied from the Emoncms Raspberry Pi installation and has been done to test sending data from a web browser through serial and RF.
 
 It has been tested with the following setup:
+
 Hardware
 - Raspberry Pi (http://www.raspberrypi.org)
 - RFM2Pi (http://harizanov.com/product/rfm2pi-board-v2/)
 
 Server Stack
+
 Install the elements below as per instructions at http://emoncms.org/site/docs/raspberrypibuild
 - "2013-02-09-wheezy-raspbian" distro installed on Raspberry Pi
 - Apache2
