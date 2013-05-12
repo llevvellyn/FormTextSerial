@@ -19,7 +19,12 @@ Install the elements below as per instructions at http://emoncms.org/site/docs/r
 - php
 - rfm12pi gateway service: PHP gateway - except instead of rfm12piphp use the form_script file
 Ignore the emoncms and Mysql elements in the instructions list
-<pre><code> sudo apt-get apache2 </code></pre>
+<pre>
+  <code> 
+    sudo apt-get apache2 
+    ....... to be continued
+  </code>
+</pre>
 
 
 <b>Code</b>
