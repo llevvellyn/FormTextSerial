@@ -11,7 +11,7 @@ Hardware
 - Raspberry Pi (http://www.raspberrypi.org)
 - RFM2Pi (http://harizanov.com/product/rfm2pi-board-v2/)
 
-Server Stack
+<b>Server Stack</b>
 
 Install the elements below as per instructions at http://emoncms.org/site/docs/raspberrypibuild
 - "2013-02-09-wheezy-raspbian" distro installed on Raspberry Pi
