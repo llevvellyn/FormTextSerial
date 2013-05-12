@@ -26,4 +26,4 @@ Reboot the system.
 To determine the status of the script use "sudo service form_script status". Changing the word status with start, stop or restart will have the expected effect. See: https://github.com/emoncms/raspberrypi/commit/66293ecd746f4f0b8a74aaf2ff1fe587bd7780ad
 
 Known issues:
-- Some input at the browser end is not picked up which I think is bec.ae the script is
+- Some input at the browser end is not picked up over the RF. I think is because the form_script is not in the right part of it's loop when the index.php writes to the file....but don't know.
